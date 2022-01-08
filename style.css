@@ -1,0 +1,65 @@
+*body{
+    margin: 20px;
+    border: 20px;
+}   
+   .mission1{
+    color: orange;
+}
+.link-button{
+    text-decoration: rgba(153, 130, 132, 0.336);
+    background-color: rgb(105, 49, 8);
+    padding: 5px 20px;
+}
+.stay{
+    display: flex;
+}
+.equal{
+    width: 50%;
+}
+.equal img{
+    width: 250px;
+}
+.box{
+    display: flex;
+    width: 33%;
+    
+    
+}
+h1{
+    text-align: center;
+}
+.box1{
+  padding: 10px;
+  border: 2px solid;
+  margin: 4px;
+
+}
+#one{
+    background-color: tan;
+}
+#two{
+    background-color: thistle;
+}
+#three{
+    background-color: violet;
+}
+.develop{
+    display: flex;
+    
+}
+.develop-baby img{
+   width: 250px;
+}
+.develop-baby{
+    width: 50%;
+}
+h2{
+    text-align: center;
+}
+h4{
+    border:50px 50px black;
+    text-align: center;
+    margin: 50px 50px;
+    background-color: pink;
+
+}
